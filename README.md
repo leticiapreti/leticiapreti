@@ -1,7 +1,10 @@
 ### Hi there 👋
-meu nome e leticia preti brito 
-estou no alura
-utilizo para a minha organizacao
+* nome e leticia preti brito
+
+*estou no alura
+
+*utilizo para a minha organizacao
+
 
 
 etre em contato com 
